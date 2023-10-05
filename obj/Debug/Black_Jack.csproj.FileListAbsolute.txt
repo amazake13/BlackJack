@@ -1,0 +1,50 @@
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\bin\Debug\Black_Jack.exe.config
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\bin\Debug\Black_Jack.exe
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\bin\Debug\Black_Jack.pdb
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\obj\Debug\Black_Jack.csprojAssemblyReference.cache
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\obj\Debug\Black_Jack.Form1.resources
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\obj\Debug\Black_Jack.csproj.GenerateResource.cache
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\obj\Debug\Black_Jack.csproj.CoreCompileInputs.cache
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\obj\Debug\Black_Jack.exe
+C:\Users\天野創\source\repos\Black_Jack\Black_Jack\obj\Debug\Black_Jack.pdb
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\bin\Debug\Black_Jack.exe.config
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\bin\Debug\Black_Jack.exe
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\bin\Debug\Black_Jack.pdb
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.csprojResolveAssemblyReference.cache
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.Form1.resources
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.csproj.GenerateResource.cache
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.csproj.CoreCompileInputs.cache
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.exe
+H:\CPP\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.pdb
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\bin\Debug\Black_Jack.exe.config
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\bin\Debug\Black_Jack.exe
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\bin\Debug\Black_Jack.pdb
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\obj\Debug\Black_Jack.csprojAssemblyReference.cache
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\obj\Debug\Black_Jack.Form1.resources
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\obj\Debug\Black_Jack.csproj.GenerateResource.cache
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\obj\Debug\Black_Jack.csproj.CoreCompileInputs.cache
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\obj\Debug\Black_Jack.exe
+D:\Black_Jack Ver.2.0 - コピー\Black_Jack\obj\Debug\Black_Jack.pdb
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\bin\Debug\Black_Jack.exe.config
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\bin\Debug\Black_Jack.exe
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\bin\Debug\Black_Jack.pdb
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.csprojAssemblyReference.cache
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.Form1.resources
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.csproj.GenerateResource.cache
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.csproj.CoreCompileInputs.cache
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.exe
+C:\Users\天野創\source\repos\Black_Jack Ver.2.0\Black_Jack\obj\Debug\Black_Jack.pdb
+H:\CPP\Black_Jack 2\Black_Jack\bin\Debug\Black_Jack.exe.config
+H:\CPP\Black_Jack 2\Black_Jack\bin\Debug\Black_Jack.exe
+H:\CPP\Black_Jack 2\Black_Jack\bin\Debug\Black_Jack.pdb
+H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.csprojResolveAssemblyReference.cache
+H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.Form1.resources
+H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.csproj.GenerateResource.cache
+H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.csproj.CoreCompileInputs.cache
+H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.exe
+H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.pdb
