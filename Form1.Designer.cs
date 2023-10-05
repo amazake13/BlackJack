@@ -1,4 +1,4 @@
-﻿namespace Black_Jack
+﻿namespace BlackJack
 {
     partial class Form1
     {
@@ -67,7 +67,6 @@
             this.label1.Size = new System.Drawing.Size(139, 27);
             this.label1.TabIndex = 1;
             this.label1.Text = "CROUPIER";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -100,7 +99,6 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(0, 27);
             this.label3.TabIndex = 6;
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 

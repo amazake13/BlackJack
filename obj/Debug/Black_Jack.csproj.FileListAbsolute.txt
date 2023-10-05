@@ -48,3 +48,13 @@ H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.csproj.GenerateResource.cach
 H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.csproj.CoreCompileInputs.cache
 H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.exe
 H:\CPP\Black_Jack 2\Black_Jack\obj\Debug\Black_Jack.pdb
+C:\Users\souam\Black_Jack\Black_Jack\obj\Debug\Black_Jack.csproj.AssemblyReference.cache
+C:\Users\souam\Black_Jack\Black_Jack\obj\Debug\BlackJack.Form1.resources
+C:\Users\souam\Black_Jack\Black_Jack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\souam\Black_Jack\Black_Jack\obj\Debug\Black_Jack.csproj.GenerateResource.cache
+C:\Users\souam\Black_Jack\Black_Jack\obj\Debug\Black_Jack.csproj.CoreCompileInputs.cache
+C:\Users\souam\Black_Jack\Black_Jack\bin\Debug\BlackJack.exe.config
+C:\Users\souam\Black_Jack\Black_Jack\bin\Debug\BlackJack.exe
+C:\Users\souam\Black_Jack\Black_Jack\bin\Debug\BlackJack.pdb
+C:\Users\souam\Black_Jack\Black_Jack\obj\Debug\BlackJack.exe
+C:\Users\souam\Black_Jack\Black_Jack\obj\Debug\BlackJack.pdb

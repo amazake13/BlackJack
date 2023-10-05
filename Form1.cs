@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Black_Jack
+namespace BlackJack
 {
     public partial class Form1 : Form
     {
@@ -41,7 +35,7 @@ namespace Black_Jack
             back.Visible = false;
             
             Shuffle(cards);
-            Image_Set(cards);
+            ImageSet(cards);
 
             count = 0;
             croupier = 0;
@@ -56,13 +50,12 @@ namespace Black_Jack
 
         private void Ready()
         {
-            Croupier_Draw_Card(cards);
+            CroupierDrawCard(cards);
             back.Location = new Point(12 +  croupier * 30, 24);
             back.Visible = true;
             back.BringToFront();
 
-            Player_Draw_Card(cards);
-            Player_Draw_Card(cards);
+            PlayerDrawCard(cards);
 
             button1.Enabled = true;
             button2.Enabled = true;
@@ -90,7 +83,7 @@ namespace Black_Jack
             }
         }
 
-        private void Image_Set(PictureBox[] n)
+        private void ImageSet(PictureBox[] n)
         {
             string[] suits = new string[4] { "s", "h", "d", "c" };
 
@@ -104,10 +97,10 @@ namespace Black_Jack
 
         private void Wait()
         {
-            button4.Enabled = true;
             button1.Enabled = false;
             button2.Enabled = false;
             button3.Enabled = true;
+            button4.Enabled = true;
             numericUpDown1.Enabled = true;
         }
 
@@ -126,7 +119,7 @@ namespace Black_Jack
             }
         }
 
-        private void Croupier_Draw_Card(PictureBox[] n)
+        private void CroupierDrawCard(PictureBox[] n)
         {
             n[count].Location = new Point(12 + croupier++ * 30, 24);
             n[count].Visible = true;
@@ -158,7 +151,7 @@ namespace Black_Jack
             count++;
         }
 
-        private void Player_Draw_Card(PictureBox[] n)
+        private void PlayerDrawCard(PictureBox[] n)
         {
             n[count].Location = new Point(12 + player++ * 30, 240);
             n[count].Visible = true;
@@ -258,7 +251,7 @@ namespace Black_Jack
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Player_Draw_Card(cards);
+            PlayerDrawCard(cards);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -267,7 +260,7 @@ namespace Black_Jack
 
             while (true)
             {
-                Croupier_Draw_Card(cards);
+                CroupierDrawCard(cards);
                 if (sum_c > 21)
                 {
                     Initialize();
@@ -280,16 +273,6 @@ namespace Black_Jack
                     break;
                 }
             }  
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button3_Click(object sender, EventArgs e)
